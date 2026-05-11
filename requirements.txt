@@ -1,5 +1,2 @@
 pandas
 jupyter
-
-#install
-pip install -r requirements.txt
