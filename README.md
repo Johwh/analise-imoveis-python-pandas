@@ -30,9 +30,11 @@ A base utilizada contém informações sobre imóveis para aluguel, incluindo:
 ## Tecnologias utilizadas
 
 - Python
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-
+- Pandas
+- Google Colab
+- Git
+- GitHub
+  
 ## Estrutura do projeto
 
 ```bash
